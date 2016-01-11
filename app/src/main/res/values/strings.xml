@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">InmigrantForm</string>
+    <string name="action_settings">Settings</string>
+    <string name="family_name">family_name</string>
+    <string name="last_name">last_name</string>
+    <string name="choose_country">Choose a country</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="country">Country</string>
+    <string name="dob">Date Of Birth </string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="clear">Clear</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">Ok</string>
+    <string name="date_picker_title">Set you date of bird</string>
+    <string name="confirmation_activity">Confirmation</string>
+    <string name="immigrat_title">Immigrat Information</string>
+    <string name="error_email_form">Email incorrect</string>
+    <string name="error_phone_form">Phone incorrect</string>
+    <string name="error_camera_permission_denied">Camera permission denied</string>
+    <string name="image_path">Image path</string>
+    <string name="gender">Gender</string>
+    <string name="immigrant_detail">Immigrant detail</string>
+    <string name="save">Save</string>
+    <string name="toolbar_title_form">Immigrant Form</string>
+    <string name="toolbar_title_detail">Detail</string>
+    <string name="toolbar_title_list">Immigrants List</string>
+
+    <string name="transition_immigrant_list_image">transition:IMAGE</string>
+    <string name="transition_immigrant_list_title">transition:TITLE</string>
+
+
+</resources>

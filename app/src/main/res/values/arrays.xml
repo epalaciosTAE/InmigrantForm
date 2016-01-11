@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries_array">
+        <item>Spain</item>
+        <item>Uk</item>
+    </string-array>
+
+    <string-array name="confirmation_titles_array">
+        <item>Family Name</item>
+        <item>Last Name</item>
+        <item>Date Of Birth</item>
+        <item>Gender</item>
+        <item>Country</item>
+        <item>Address</item>
+        <item>Emai</item>
+        <item>Phone</item>
+
+    </string-array>
+</resources>

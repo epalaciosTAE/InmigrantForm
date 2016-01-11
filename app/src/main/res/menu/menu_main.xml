@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".activity.MainActivity">
+    <item
+        android:id="@+id/menu_item_clear"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_toilet_bowl_24x24"
+        android:title="@string/clear"
+        app:showAsAction="always"/>
+</menu>
